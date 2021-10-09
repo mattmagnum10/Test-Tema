@@ -1,8 +1,10 @@
 {
     "manifest": {
         "author": "Veis#7468",
-        "name": "pink",
-        "version": "1.0.2"
+        "name": "Pink",
+        "version": "1.1.0",
+        "license": " ",
+        "updater": "https:\/\/raw.githubusercontent.com\/Veis2015\/Veis-themes\/main\/pink.json"
     },
     "background": {},
     "fonts": {},
