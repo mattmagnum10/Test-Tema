@@ -1,0 +1,12 @@
+{
+    "manifest": {
+        "author": "VEIS#0130",
+        "name": "abc",
+        "version": "1.0.0"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {},
+    "colors": {},
+    "drawable_tints": {}
+}
