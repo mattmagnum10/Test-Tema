@@ -1,0 +1,43 @@
+{
+    "manifest": {
+        "author": "VEIS#0130",
+        "name": "Kofibox",
+        "version": "1.0.0",
+        "url": "https:\/\/github.com\/Veis201\/Veis-themes\/blob\/main\/Kofibox.json"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "background": -16577246,
+        "background_secondary": -16772816,
+        "mention_highlight": 822464511,
+        "active_channel": -16576472,
+        "input_background": -16774891,
+        "statusbar": -16708834,
+        "accent": -16396289
+    },
+    "colors": {
+        "brand_new_360": -15042418,
+        "brand_new_560": -16777216,
+        "link": -3008295,
+        "primary_dark_100": 1392889855,
+        "primary_dark_360": -4449598,
+        "primary_dark_200": -7269226,
+        "primary_dark_400": -9342607,
+        "primary_660": -16770499,
+        "primary_700": -16639429,
+        "primary_700_alpha_60": -16705222,
+        "white_800": -15978673,
+        "transparent": -15982523,
+        "uikit_btn_bg_color_selector_red": -11334795,
+        "uikit_settings_item_text_color_light": -9528388,
+        "brand_new_300": -16396289,
+        "primary_dark_660": -16759209,
+        "primary_dark_300": -9502465
+    },
+    "drawable_tints": {
+        "drawable_button_grey": -16749434,
+        "drawable_button_red": -16749692
+    },
+    "raws": {}
+}
