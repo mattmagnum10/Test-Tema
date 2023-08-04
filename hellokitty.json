@@ -1,6 +1,6 @@
 {
     "manifest": {
-        "author": "FCNM4TT10#4750",
+        "author": "FCNM4TT10#3300",
         "name": "Hello Kitty",
         "version": "1.0.0",
         "license": "no license",
@@ -11,6 +11,7 @@
     "simple_colors": {
         "accent": -60756,
         "background": -1122842,
+        "background_url": "https://cdn.discordapp.com/attachments/1078741037499023441/1137046423158927460/fb15cb21de2955aeab1d40a29f484b95.jpg",
         "mention_highlight": 2010233032,
         "input_background": -1122842,
         "background_secondary": -1122842
