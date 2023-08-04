@@ -4,7 +4,7 @@
         "name": "Hello Kitty",
         "version": "1.0.0",
         "license": "no license",
-        "updater": "https:\/\/raw.githubusercontent.com\/mattmagnum10\/Test-Tema\/main\/hellokitty.json"
+        "updater": "https://raw.githubusercontent.com/mattmagnum10/Test-Tema/main/hellokitty.json"
     },
     "background": {},
     "fonts": {},
